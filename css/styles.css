@@ -112,3 +112,30 @@ h1 {
   bottom: 50px;
   opacity: 1;
 }
+
+.alerta {
+  padding: 25px;
+  border-radius: 3px;
+  margin: 10px;
+  font-size: 18px;
+  width: 480px;
+  border-color: #87c940;
+  color: #FFF;
+  background-color: #a0d468;
+  margin-bottom: 5rem;
+  display: none;
+}
+
+.copypassword {
+  padding: 5px;
+  border-radius: 3px;
+  margin: 10px;
+  font-size: 15px;
+  width: 480px;
+  border-color: #87c940;
+  color: #FFF;
+  background-color: #a0d468;
+  margin-top: 2rem;
+  text-align: center;
+  display: none;
+}
